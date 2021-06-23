@@ -1,0 +1,43 @@
+body {
+    
+    /*typo Quicksand */
+    font-family: 'Quicksand', sans-serif;
+    padding-left:30%;
+    padding-right: 30%;
+    
+    
+    
+    
+     }
+
+hr { width: 25pc;
+
+    }
+
+h1 { font-family: 'Quicksand', sans-serif;
+
+   }
+
+ .labelbox {
+            display: flex;
+            margin-right: 30px;
+
+ }
+ label { display: block;
+         margin-right: 14px;
+         margin-left: 14px;
+
+ }
+
+
+
+
+
+textarea { width: 529px;
+           height: 168px;
+
+}
+
+
+            
+

@@ -1,0 +1,52 @@
+h1 {
+    color: blueviolet;
+
+}
+.navbar { display: flex;
+          justify-content: flex-end;
+
+}
+.navbar li {
+            margin: 10px;
+            list-style-type: none;
+
+}
+.articles { display: flex;
+
+          }
+
+.articles div { 
+               width:30%;
+               height: 200px;
+
+}
+
+.article1 { background-color: black;
+
+}
+.article2 { background-color: blueviolet;
+    
+}
+.article3 { background-color: darkmagenta;
+    
+}
+ @media screen and (max-width: 685px) {
+     /* média query ou selecteur intelligent*/
+     
+ 
+ h1 {
+      color:crimson;
+
+ }
+ 
+
+.articles { 
+    display: block;
+
+}
+.articles div {
+               width: 100%;
+
+               }
+
+ }
